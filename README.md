@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cathanys
+- 👋 Hi, I’m Kerstin
 - 🏬 I have been working for Thorlabs GmbH as a software developer for 13 years.
 - 📇 With the programming languages C ++ / C # I create Windows desktop programs to control the measuring devices and to display the measurement results graphically.
 In addition, we supply customers with a library for each device in C, with converters and examples in DotNet, LabView and Python.
